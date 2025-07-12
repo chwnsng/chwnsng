@@ -7,14 +7,14 @@ I'm an engineer working in DevOps, Cloud, & Software development.
 * ☎️  You can contact me at [chawin.sung@gmail.com](mailto:chawin.sung@gmail.com)
 <br>
 
-# 🖥️ Skills
+## 🖥️ Skills
 
-## Cloud
+#### Cloud
 ![Static Badge](https://img.shields.io/badge/Azure-%230078D3?style=flat&logo=icloud&logoColor=%230078D3&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Aws-%23FF8E04?style=flat&logo=icloud&logoColor=%23FF8E04&labelColor=black)
 
 
-### CI/CD & Automation
+#### CI/CD & Automation
 ![Static Badge](https://img.shields.io/badge/Bash-%23242C35?style=flat&logo=gnubash&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=flat&logo=gitlab&logoColor=%23FC6D26&labelColor=black)
@@ -22,14 +22,14 @@ I'm an engineer working in DevOps, Cloud, & Software development.
 ![Static Badge](https://img.shields.io/badge/Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=%23D24939&labelColor=black)
 
 
-## Microservices & IaC
+#### Microservices & IaC
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=%23326CE5&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Helm-%230F1689?style=flat&logo=helm&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Terraform-%235F3ADD?style=flat&logo=terraform&logoColor=%235F3ADD&labelColor=black)
 
 
-## Programming
+#### Programming
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=%233776AB&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Java-%23F39112?style=flat&logoColor=%23F39112&label=%7B%2F%7D&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Html5-%23E65127?style=flat&logo=html5&logoColor=%23E65127&labelColor=black)
@@ -37,7 +37,7 @@ I'm an engineer working in DevOps, Cloud, & Software development.
 ![Static Badge](https://img.shields.io/badge/CSS-%230C6FB2?style=flat&logo=css&logoColor=%230C6FB2&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=%2361DAFB&labelColor=black)
 
-## Observability
+#### Observability
 ![Static Badge](https://img.shields.io/badge/Grafana-%23F46800?style=flat&logo=grafana&logoColor=%23F46800&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Prometheus-%23E6522C?style=flat&logo=prometheus&logoColor=%23E6522C&labelColor=black)
 
