@@ -2,7 +2,7 @@
 I'm an engineer working in DevOps, Cloud, & Software development.
 
 * 🌏  I'm based in BKK, Thailand
-* 🔥  I'm currently focused on improving my DevOps skills, learning Golang, and picking up cybersecurity
+* 🔥  I'm currently focused on improving my DevOps skills, learning Go, and picking up cybersecurity
 * 🎨  I also do UX/UI on the side!
 * ☎️  You can contact me at [chawin.sung@gmail.com](mailto:chawin.sung@gmail.com)
 <br>
@@ -11,7 +11,7 @@ I'm an engineer working in DevOps, Cloud, & Software development.
 
 #### Cloud
 ![Static Badge](https://img.shields.io/badge/Azure-%230078D3?style=flat&logo=icloud&logoColor=%230078D3&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Aws-%23FF8E04?style=flat&logo=icloud&logoColor=%23FF8E04&labelColor=black)
+![Static Badge](https://img.shields.io/badge/AWS-%23FF8E04?style=flat&logo=icloud&logoColor=%23FF8E04&labelColor=black)
 
 
 #### CI/CD & Automation
