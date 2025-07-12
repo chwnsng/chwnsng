@@ -31,7 +31,7 @@ I'm an engineer working in DevOps, Cloud, & Software development.
 
 #### Programming
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=%233776AB&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Java-%23F39112?style=flat&logoColor=%23F39112&label=%7B%2F%7D&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Java-%23E9911F?style=flat&logo=spring&logoColor=%23E9911F&labelColor=black&color=%23E9911F)
 ![Static Badge](https://img.shields.io/badge/Html5-%23E65127?style=flat&logo=html5&logoColor=%23E65127&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-%230C6FB2?style=flat&logo=css&logoColor=%230C6FB2&labelColor=black)
